@@ -1,9 +1,0 @@
-README.md
-pyproject.toml
-setup.py
-src/mypackage.egg-info/PKG-INFO
-src/mypackage.egg-info/SOURCES.txt
-src/mypackage.egg-info/dependency_links.txt
-src/mypackage.egg-info/requires.txt
-src/mypackage.egg-info/top_level.txt
-src/py_package/__init__.py
