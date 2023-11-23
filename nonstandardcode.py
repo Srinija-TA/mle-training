@@ -28,7 +28,6 @@ def fetch_housing_data(
     housing_tgz.extractall(path=housing_path)
     housing_tgz.close()
 
-
 # Function to load housing data
 def load_housing_data(housing_path="datasets/housing"):
     csv_path = "housing.csv"
