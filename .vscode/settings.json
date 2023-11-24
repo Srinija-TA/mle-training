@@ -1,0 +1,28 @@
+{
+  "editor.defaultFoldingRangeProvider": null,
+  "editor.defaultFormatter": "ms-python.black-formatter",
+  "black-formatter.args": [
+      "line_length=200"
+  ],
+  "flake8.args": [
+      "--max-line-length=200"
+   ],
+  "isort.args": [
+      "profile=\"black\"",
+      "multi_line_output=3"
+  ],
+  "python.testing.unittestArgs": [
+          "-v",
+          "-s",
+          "./tests",
+          "-p",
+          "*test.py"
+  ],
+  "flake8.ignorePatterns": [
+      "extend_ignore=E201"
+  ],
+  "python.defaultInterpreterPath":"/home/srinija2001/miniconda3/envs/mle-dev/lib/python3.12/site-packages (1.16.0)",
+  "python.globalModuleInstallation": true
+  
+
+}
