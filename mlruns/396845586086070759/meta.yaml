@@ -1,0 +1,6 @@
+artifact_location: file:///home/srinija2001/ML_flow/mle-training/mlruns/396845586086070759
+creation_time: 1702216441376
+experiment_id: '396845586086070759'
+last_update_time: 1702216441376
+lifecycle_stage: active
+name: housing_price_prediction

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/srinija2001/ML_flow/mle-training/mlruns/396845586086070759/147552fa0e4d469ab0a4a09fcca8e687/artifacts
+end_time: 1702218329843
+entry_point_name: ''
+experiment_id: '396845586086070759'
+lifecycle_stage: active
+run_id: 147552fa0e4d469ab0a4a09fcca8e687
+run_name: RandomForestRandomizedSearch
+run_uuid: 147552fa0e4d469ab0a4a09fcca8e687
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702218116587
+status: 3
+tags: []
+user_id: srinija2001

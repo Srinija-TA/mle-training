@@ -1,0 +1,16 @@
+artifact_uri: file:///home/srinija2001/ML_flow/mle-training/mlruns/396845586086070759/5463bb8d263b4480af55f5713793eece/artifacts
+deleted_time: 1702227308453
+end_time: 1702216691372
+entry_point_name: ''
+experiment_id: '396845586086070759'
+lifecycle_stage: deleted
+run_id: 5463bb8d263b4480af55f5713793eece
+run_name: RandomForestGridSearch
+run_uuid: 5463bb8d263b4480af55f5713793eece
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702216638247
+status: 4
+tags: []
+user_id: srinija2001

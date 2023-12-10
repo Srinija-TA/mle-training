@@ -1,0 +1,15 @@
+artifact_uri: file:///home/srinija2001/ML_flow/mle-training/mlruns/396845586086070759/4268c9f48f8b4e11835134f69d8fdd97/artifacts
+end_time: 1702218116253
+entry_point_name: ''
+experiment_id: '396845586086070759'
+lifecycle_stage: active
+run_id: 4268c9f48f8b4e11835134f69d8fdd97
+run_name: LinearRegressionExperiment
+run_uuid: 4268c9f48f8b4e11835134f69d8fdd97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702218115973
+status: 3
+tags: []
+user_id: srinija2001
