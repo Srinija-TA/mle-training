@@ -1,0 +1,16 @@
+artifact_uri: file:///home/srinija2001/ML_flow/mle-training/mlruns/396845586086070759/09f79aa043434a7fb74a67e1ae2112a3/artifacts
+deleted_time: 1702227266377
+end_time: 1702216442318
+entry_point_name: ''
+experiment_id: '396845586086070759'
+lifecycle_stage: deleted
+run_id: 09f79aa043434a7fb74a67e1ae2112a3
+run_name: DecisionTreeExperiment
+run_uuid: 09f79aa043434a7fb74a67e1ae2112a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702216441969
+status: 3
+tags: []
+user_id: srinija2001
