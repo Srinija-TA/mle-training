@@ -1,0 +1,15 @@
+artifact_uri: file:///home/srinija2001/ML_flow/mle-training/mlruns/0/e8456716a45747fbbc5547e07f700ef7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e8456716a45747fbbc5547e07f700ef7
+run_name: legendary-steed-923
+run_uuid: e8456716a45747fbbc5547e07f700ef7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702033718177
+status: 1
+tags: []
+user_id: srinija2001

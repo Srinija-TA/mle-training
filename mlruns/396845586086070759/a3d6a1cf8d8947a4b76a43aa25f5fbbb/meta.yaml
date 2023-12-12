@@ -1,0 +1,16 @@
+artifact_uri: file:///home/srinija2001/ML_flow/mle-training/mlruns/396845586086070759/a3d6a1cf8d8947a4b76a43aa25f5fbbb/artifacts
+deleted_time: 1702227220100
+end_time: 1702217364488
+entry_point_name: ''
+experiment_id: '396845586086070759'
+lifecycle_stage: deleted
+run_id: a3d6a1cf8d8947a4b76a43aa25f5fbbb
+run_name: Parent_run
+run_uuid: a3d6a1cf8d8947a4b76a43aa25f5fbbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702217111531
+status: 4
+tags: []
+user_id: srinija2001
