@@ -45,3 +45,27 @@ conda env export mle-dev > env.yml
 # testing in our system
 1.create a folder with dist and env files
 2.run using python -m housing_price_prediction.test
+
+# assignment-4.2(Docker)
+Steps to setup Docker on Ubuntu APP (WSL2)
+i. Run the following command on WSL2
+$ sudo update-alternatives --config iptables
+ii. Switch to `iptables-legacy` from `iptables-nft` by selecting the appropriate choice
+iii. Restart WSL2
+iv. Run the following command on WSL2
+$ sudo dockerd
+v. Open another WSL2 terminal and run docker commands
+
+# Build docker image
+build docker image - sudo docker build -t docker-archives
+run the image in container - sudo docker run -p 8081:80 docker-archives python src/train.py
+sudo docker login
+sudo docker images
+sudo docker tag docker-archives:latest saisrinija/docker_container:v0.3
+
+# Pushing into dockerhub account
+sudo docker push saisrinija/docker_container:v0.3
+
+# Pulling from dockerhub and testing
+sudo docker pull saisrinija/docker_container:v0.3
+
