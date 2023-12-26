@@ -183,6 +183,7 @@ def score(housing_prepared, housing_labels, strat_test_set, imputer, output_fold
         "a",
     )
     exp_name = "housing_price_prediction"
+    os.makedirs("../output_folder/pickles",exist_ok=True)
     mlflow.set_experiment(exp_name)
     with mlflow.start_run(run_name="Parent_run"):
         lin_rmse, lin_mse, lin_mae = train_linear_regression(
@@ -215,5 +216,3 @@ def score(housing_prepared, housing_labels, strat_test_set, imputer, output_fold
         )
         logger.info(" %s", final_rmse)
     return
-
-    
