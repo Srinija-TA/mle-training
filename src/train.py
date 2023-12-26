@@ -102,7 +102,10 @@ def training_data(housing, output_folder):
 
     housing_cat = housing[["ocean_proximity"]]
     housing_prepared = housing_tr.join(pd.get_dummies(housing_cat, drop_first=True))
-    imputer_filename = os.path.join(output_folder, "imputer1.pkl")
+
+    os.makedirs("../output_folder", exist_ok=True)
+
+    imputer_filename = os.path.join(output_folder, "imputer.pkl")
     with open(imputer_filename, "wb") as imputer_file:
         pickle.dump(imputer, imputer_file)
     logger.info(f"Imputer saved to: {imputer_filename}")
